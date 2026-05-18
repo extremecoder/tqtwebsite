@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">ThinkQuantum Technologies mark</title>
+  <desc id="desc">A quantum orbit mark with connected nodes forming a Q shape.</desc>
+  <defs>
+    <linearGradient id="orbit" x1="16" y1="14" x2="82" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#57d7ff"/>
+      <stop offset="0.58" stop-color="#71f6c5"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="#07101c"/>
+  <circle cx="48" cy="48" r="23" fill="none" stroke="url(#orbit)" stroke-width="7"/>
+  <path d="M62 62l14 14" stroke="#ff7a70" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="48" cy="48" rx="36" ry="12" fill="none" stroke="#57d7ff" stroke-width="3" opacity=".72" transform="rotate(-24 48 48)"/>
+  <ellipse cx="48" cy="48" rx="36" ry="12" fill="none" stroke="#71f6c5" stroke-width="3" opacity=".64" transform="rotate(52 48 48)"/>
+  <circle cx="25" cy="39" r="5" fill="#57d7ff"/>
+  <circle cx="67" cy="28" r="4" fill="#71f6c5"/>
+  <circle cx="69" cy="69" r="5" fill="#ffd166"/>
+</svg>
